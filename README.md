@@ -2,6 +2,8 @@
 
 # where to begin
 
+[https://howistart.org/posts/go/1/#making-a-web-server](https://howistart.org/posts/go/1/#making-a-web-server)
+
 [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
 
 [https://thewebivore.com/using-replace-in-go-mod-to-point-to-your-local-module/](https://thewebivore.com/using-replace-in-go-mod-to-point-to-your-local-module/)
@@ -29,3 +31,7 @@ read [https://go.dev/doc/effective_go#panic](https://go.dev/doc/effective_go#pa
 ## Course
 
 [https://www.udemy.com/course/go-microservices/learn/lecture/28832554#overview](https://www.udemy.com/course/go-microservices/learn/lecture/28832554#overview)
+
+## About Go
+
+[https://getstream.io/blog/switched-python-go/](https://getstream.io/blog/switched-python-go/)
